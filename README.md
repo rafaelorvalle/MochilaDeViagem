@@ -7,4 +7,4 @@
 * Javascript
 
 ## Screenshots
-![Screenshot da tela do formulário do AluraBooks](https://imgur.com/bupnUfx.png)
+![Screenshot da tela do formulário do AluraBooks](./Mochila de Viagem/screenshots/Captura de tela 2023-05-26 190628)
