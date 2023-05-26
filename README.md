@@ -7,4 +7,4 @@
 * Javascript
 
 ## Screenshots
-![Screenshot da tela do formulário do AluraBooks]([./Mochila de Viagem/screenshots/Captura de tela 2023-05-26 190628](https://github.com/rafaelorvalle/MochilaDeViagem/blob/main/Mochila%20de%20Viagem/screenshots/Captura%20de%20tela%202023-05-26%20190628.png))
+![Screenshot da tela do formulário do AluraBooks](https://github.com/rafaelorvalle/MochilaDeViagem/blob/main/Mochila%20de%20Viagem/screenshots/Captura%20de%20tela%202023-05-26%20190628.png)
